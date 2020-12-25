@@ -1,5 +1,7 @@
 # #1 Angular Belgrade Meetup
 
+[![Angular Belgrade Meetup](https://i.ibb.co/FnwnRqs/1-Angular-Belgrade-Meetup.png)](https://youtu.be/v5WSUE1_YHM)
+
 ## Talks
 
 ### Local State Management with NgRx Component Store
